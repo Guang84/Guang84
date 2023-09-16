@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning BCA at DBCM, Manipur
 - 💞️ Looking forward to collaborate with you all
 - 📫 You Can Always Contact Me at
-- guangthuanlunggondaimeinss@gmail.com
+- brazilianpro96@gmail.com
 - +91 84150*****
 
 <!---
