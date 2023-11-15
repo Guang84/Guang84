@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Guang84
+- 👋 Hi, I’m Guang
 - 👀 I am curious and am constantly learning
 - 🌱 I’m currently learning BCA at DBCM, Manipur
 - 💞️ Looking forward to collaborate with you all
