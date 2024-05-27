@@ -2,9 +2,8 @@
 - 👀 I am curious and am constantly learning
 - 🌱 I’m currently pursuing BCA at DBCM, Manipur
 - 💞️ Looking forward to collaborate with you all
-- 📫 You Can Always Contact Me at
+- 📫 You Can Always Contact Me at⬇_
 - brazilianpro96@gmail.com
-- 
 
 <!---
 Guang84/Guang84 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
