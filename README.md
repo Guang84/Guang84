@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Guang
-- 👀 I am curious and am constantly learning
+- 👀 I am curious and constantly learning
 - 🌱 I’m currently pursuing BCA at DBCM, Manipur
 - 💞️ Looking forward to collaborate with you all
 - 📫 You Can Always Contact Me at⬇_
