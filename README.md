@@ -23,7 +23,7 @@ I'm always open to collaborating on exciting projects. If you have an idea or ne
 ## 📫 Get in Touch
 
 - **Email:** brazilianpro96@gmail.com
-- **Instagram:** [Your LinkedIn Profile](https://www.instagram.com/im_imagi.nation?igsh=MTR3OWFta243MDUwdw==)
+- **Instagram:** [im_imagi.nation](https://www.instagram.com/im_imagi.nation?igsh=MTR3OWFta243MDUwdw==)
 
 ## 🛠️ Technologies & Tools
 
