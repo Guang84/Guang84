@@ -29,7 +29,7 @@ I'm always open to collaborating on exciting projects. If you have an idea or ne
 
 ## 📈 GitHub Stats
 
-![Guang's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Guang's GitHub stats](https://github-readme-stats.vercel.app/api?username=guang84&show_icons=true&theme=radical)
 
 ## ✨ Highlight Projects
 
