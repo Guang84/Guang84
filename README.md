@@ -7,7 +7,7 @@ I'm a curious and passionate learner, constantly exploring new horizons in techn
 ## 👀 Interests
 
 - **Cybersecurity:** Always on the lookout for new vulnerabilities and ways to secure systems.
-- **Computer Science:** Delving deep into algorithms, data structures, and software development.
+- **Computer Science:** Developing deep into algorithms, data structures, and software development.
 - **AI and Machine Learning:** Building intelligent systems and predictive models.
 - **Environment and Agriculture:** Innovating for a sustainable future through technology.
 
