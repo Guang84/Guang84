@@ -23,12 +23,12 @@ I'm always open to collaborating on exciting projects. If you have an idea or ne
 - Email: brazilianpro96@gmail.com
 - Instagram: [im_imagi.nation](https://www.instagram.com/im_imagi.nation?igsh=MTR3OWFta243MDUwdw==)
 
-## 🛠️ Technologies & Tools
-
 ## 📈 GitHub Stats
 
 ![Guang's GitHub stats](https://github-readme-stats.vercel.app/api?username=guang84&show_icons=true&theme=radical)
 
-## ✨ Highlight Projects
+## ✨ Projects
 
 - [NETWORK ANALYZER](https://guang84.github.io/Network-Analyzer/)
+- [HOPE-MAP](https://guang84.github.io/hope-map/)
+- [DBCM-CLUB(5th sem project)](https://guang84.github.io/DBCMCLUBS/)
