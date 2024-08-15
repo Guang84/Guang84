@@ -1,15 +1,13 @@
 # 👋 Hi, I’m Guang
 
-### 🌟 Welcome to My GitHub Profile!
-
 I'm a curious and passionate learner, constantly exploring new horizons in technology and beyond. Here, you'll find my projects, contributions, and collaborations in various fields.
 
 ## 👀 Interests
 
-- **Cybersecurity:** Always on the lookout for new vulnerabilities and ways to secure systems.
-- **Computer Science:** Developing deep into algorithms, data structures, and software development.
-- **AI and Machine Learning:** Building intelligent systems and predictive models.
-- **Environment and Agriculture:** Innovating for a sustainable future through technology.
+- Cybersecurity: Always on the lookout for new vulnerabilities and ways to secure systems.
+- Computer Science: Developing deep into algorithms, data structures, and software development.
+- AI and Machine Learning: Building intelligent systems and predictive models.
+- Environment and Agriculture: Innovating for a sustainable future through technology.
 
 ## 🌱 Currently Learning
 
@@ -22,7 +20,7 @@ I'm always open to collaborating on exciting projects. If you have an idea or ne
 
 ## 📫 Get in Touch
 
-- **Email:** brazilianpro96@gmail.com
+- Email: brazilianpro96@gmail.com
 - Instagram: [im_imagi.nation](https://www.instagram.com/im_imagi.nation?igsh=MTR3OWFta243MDUwdw==)
 
 ## 🛠️ Technologies & Tools
@@ -33,4 +31,4 @@ I'm always open to collaborating on exciting projects. If you have an idea or ne
 
 ## ✨ Highlight Projects
 
-- [Project 1](https://github.com/yourusername/project1):
+- [NETWORK ANALYZER](https://guang84.github.io/Network-Analyzer/)
