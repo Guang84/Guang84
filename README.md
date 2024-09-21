@@ -34,7 +34,7 @@ I’m always eager to team up on exciting projects! If you have an idea or need 
 
 - [NETWORK ANALYZER](https://guang84.github.io/Network-Analyzer/)
 - [HOPE-MAP](https://guang84.github.io/hope-map/)
-- [HOME-MEDIA-SERVER] (https://github.com/Guang84/HomeMedia_Server.git)
+- [HOME-MEDIA-SERVER](https://github.com/Guang84/HomeMedia_Server.git)
 - [DBCM-CLUB (5th sem project)](https://guang84.github.io/DBCMCLUBS/)
 
 ## 🎨 Hobbies
