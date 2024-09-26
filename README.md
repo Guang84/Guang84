@@ -23,7 +23,7 @@ I’m always eager to team up on exciting projects! If you have an idea or need 
 
 ## 📫 Get in Touch
 
-- Email: guangthuanlunggondaimeinss@gmail.com 
+- Email: guanghope01@gmail.com 
 - Instagram: [im_imagi.nation](https://www.instagram.com/im_imagi.nation?igsh=MTR3OWFta243MDUwdw==)
 
 ## 📈 GitHub Stats
