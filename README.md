@@ -13,9 +13,11 @@ I’m a passionate learner with an insatiable curiosity for technology and its p
 
 ## 🌱 Currently Learning
 
-- Advanced techniques in cybersecurity and ethical hacking.
-- Network analysis and monitoring tools to enhance security measures.
-- Trading strategies and market analysis to optimize investment decisions.
+- **Cybersecurity & Ethical Hacking:** Mastering advanced techniques to identify vulnerabilities and secure systems.
+- **Network Analysis & Monitoring:** Implementing tools to enhance security and optimize network performance.
+- **Algorithmic Trading & Market Analysis:** Developing strategies to automate trading and optimize investment decisions.
+- **Monero (XMR) Mining Automation:** Exploring efficient ways to automate XMR mining processes for better performance and profitability.
+
 
 ## 💞️ Collaboration
 
