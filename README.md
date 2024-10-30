@@ -4,13 +4,12 @@ I’m a tech enthusiast and environmentalist passionate about creating a world w
 
 ## 👀 What I’m Into
 
-- **Cybersecurity:** Identifying vulnerabilities and building resilient defenses to keep systems safe.
-- **Computer Science:** Crafting efficient solutions with algorithms and data structures.
-- **AI & Machine Learning:** Developing intelligent systems that solve real-world problems.
+- **Cybersecurity**: Exploring vulnerabilities and practicing ethical hacking to enhance system defenses and ensure security.
+- **AI & Machine Learning:**
 - **Environment & Agriculture:** Growing diverse fruits and plants, and experimenting with sustainable practices that promote a harmonious coexistence.
 - **Online Trading:** Analyzing market trends to refine investment strategies.
-- **Drone Technology:** Exploring new applications of drones across industries.
-- **Web Development & Mechanical Projects:** Building practical, innovative solutions that bridge the digital and physical worlds.
+- **Drone Technology:**
+- **Web Development & Mechanical Projects:**
 
 ## 🌱 Currently Learning
 
