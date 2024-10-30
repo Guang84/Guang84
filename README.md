@@ -42,4 +42,4 @@ I’m always excited to connect on projects that bring positive impact! If you h
 
 ## 🎨 Hobbies
 
-I enjoy designing creative electronics that blend technology with functionality, planting various types of fruits and plants, expressing my creativity through art and drawing, engaging in projects that merge tech with cybersecurity, and reading poetry and short phrases.
+*I enjoy planting various types of fruits and plants, designing creative electronics that blend technology with functionality, expressing my creativity through art and drawing, engaging in projects that merge tech with cybersecurity, and reading poetry and short phrases.*
