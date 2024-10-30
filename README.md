@@ -1,32 +1,32 @@
 # 👋 Hi, I’m Guang
 
-I’m a passionate learner with an insatiable curiosity for technology and its potential to transform our world for the better. I believe in leveraging innovation to create a harmonious coexistence among all living beings. Here, you’ll find my projects and collaborations across diverse fields that inspire me.
+I’m a tech enthusiast and environmentalist passionate about creating a world where technology and nature coexist harmoniously. My curiosity spans cybersecurity, web development, sustainable farming, and hands-on mechanical projects. I believe that when used thoughtfully, technology can drive positive change for the benefit of all living beings.
 
-## 👀 Interests
+## 👀 What I’m Into
 
-- **Cybersecurity:** Proactively identifying vulnerabilities and fortifying system defenses.
-- **Computer Science:** Exploring algorithms and data structures to build efficient software.
-- **AI and Machine Learning:** Developing intelligent systems that drive innovative solutions.
-- **Environment and Agriculture:** Harnessing technology for sustainable practices and solutions.
-- **Online Trading:** Analyzing market trends and refining investment strategies.
-- **Drone Technologies:** Innovating applications of drones for various industries.
+- **Cybersecurity:** Identifying vulnerabilities and building resilient defenses to keep systems safe.
+- **Computer Science:** Crafting efficient solutions with algorithms and data structures.
+- **AI & Machine Learning:** Developing intelligent systems that solve real-world problems.
+- **Environment & Agriculture:** Growing diverse fruits and plants, and experimenting with sustainable practices that promote a harmonious coexistence.
+- **Online Trading:** Analyzing market trends to refine investment strategies.
+- **Drone Technology:** Exploring new applications of drones across industries.
+- **Web Development & Mechanical Projects:** Building practical, innovative solutions that bridge the digital and physical worlds.
 
 ## 🌱 Currently Learning
 
-- **Cybersecurity & Ethical Hacking:** Mastering advanced techniques to identify vulnerabilities and secure systems.
-- **Network Analysis & Monitoring:** Implementing tools to enhance security and optimize network performance.
-- **Algorithmic Trading & Market Analysis:** Developing strategies to automate trading and optimize investment decisions.
-- **Monero (XMR) Mining Automation:** Exploring efficient ways to automate XMR mining processes for better performance and profitability.
+- **Ethical Hacking:** Advancing skills in security and vulnerability analysis.
+- **Network Monitoring:** Using tools to enhance network security and performance.
+- **Algorithmic Trading:** Automating strategies to increase efficiency.
+- **XMR Mining Automation:** Streamlining mining processes for better performance.
 
+## 💞️ Open to Collaboration
 
-## 💞️ Collaboration
+I’m always excited to connect on projects that bring positive impact! If you have an idea or need a collaborator, let’s join forces and create meaningful innovations.
 
-I’m always eager to team up on exciting projects! If you have an idea or need a partner, feel free to reach out. Together, we can create meaningful innovations.
+## 📫 How to Reach Me
 
-## 📫 Get in Touch
-
-- Email: guanghope01@gmail.com 
-- Instagram: [im_imagi.nation](https://www.instagram.com/im_imagi.nation?igsh=MTR3OWFta243MDUwdw==)
+- **Email:** guanghope01@gmail.com
+- **Instagram:** [@im_imagi.nation](https://www.instagram.com/im_imagi.nation?igsh=MTR3OWFta243MDUwdw==)
 
 ## 📈 GitHub Stats
 
@@ -34,15 +34,13 @@ I’m always eager to team up on exciting projects! If you have an idea or need 
 
 ## ✨ Projects
 
-- [NETWORK ANALYZER](https://guang84.github.io/Network-Analyzer/)
-- [Google-API-map]([https://guang84.github.io/hope-map/](https://github.com/Guang84/Google-API-map.git))
-- [HOME-MEDIA-SERVER](https://github.com/Guang84/HomeMedia_Server.git)
-- [DBCM-CLUB (5th sem project)](https://guang84.github.io/DBCMCLUBS/)
+- [**Network Analyzer**](https://guang84.github.io/Network-Analyzer/)
+- [**SSH-Infiltrator**](https://github.com/Guang84/SSH-Infiltrator.git)
+- [**OLT-Access-Portal**"PRIVATE pj *SALES*"](https://github.com/Guang84/OLT-Access-Portal.git) 
+- [**Google API Map**](https://github.com/Guang84/Google-API-map.git)  
+- [**Home Media Server**](https://github.com/Guang84/HomeMedia_Server.git)  
+- [**DBCM Club (5th Sem Project)**](https://guang84.github.io/DBCMCLUBS/)  
 
 ## 🎨 Hobbies
 
-- Crafting electronics projects that combine creativity and functionality.
-- Exploring agricultural practices, especially in fruit cultivation.
-- Drawing and expressing my artistic side.
-- Reading inspirational quotes that motivate and uplift me.
-- Engaging in projects that merge my interests in technology and nature.
+I enjoy designing creative electronics that blend technology with functionality, planting various types of fruits and plants, expressing my creativity through art and drawing, engaging in projects that merge tech with cybersecurity, and reading poetry and short phrases.
