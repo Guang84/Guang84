@@ -35,7 +35,7 @@ I’m always excited to connect on projects that bring positive impact! If you h
 
 - [**Network Analyzer**](https://guang84.github.io/Network-Analyzer/)
 - [**SSH-Infiltrator**](https://github.com/Guang84/SSH-Infiltrator.git)
-- [**OLT-Access-Portal**PRIVATE**on SALES**](https://github.com/Guang84/OLT-Access-Portal.git) 
+- [**OLT-Access-Portal  **PRIVATE project**  on SALES**](https://github.com/Guang84/OLT-Access-Portal.git) 
 - [**Google API Map**](https://github.com/Guang84/Google-API-map.git)  
 - [**Home Media Server**](https://github.com/Guang84/HomeMedia_Server.git)  
 - [**DBCM Club (5th Sem Project)**](https://guang84.github.io/DBCMCLUBS/)  
