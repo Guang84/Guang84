@@ -15,8 +15,8 @@ I’m a tech enthusiast and environmentalist passionate about creating a world w
 
 - **Ethical Hacking:** Advancing skills in security and vulnerability analysis.
 - **Network Monitoring:** Using tools to enhance network security and performance.
-- **Algorithmic Trading:** Automating strategies to increase efficiency.
-- **XMR Mining Automation:** Streamlining mining processes for better performance.
+- **Trading:** Technical & Fundamental.
+- **Mining**
 
 ## 💞️ Open to Collaboration
 
