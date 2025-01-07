@@ -33,7 +33,7 @@ I’m always excited to connect on projects that bring positive impact! If you h
 
 ## ✨ Projects
 
-- [**Network Analyzer**](https://guang84.github.io/Network-Analyzer/)
+- [**Network Analyzer (6th Sem pj)**](https://guang84.github.io/Network-Analyzer/)
 - [**SSH-Infiltrator**](https://github.com/Guang84/SSH-Infiltrator.git)
 - [**OLT-Access-Portal  (**PRIVATE project**)  on SALES**](https://github.com/Guang84/OLT-Access-Portal.git) 
 - [**Google API Map**](https://github.com/Guang84/Google-API-map.git)  
