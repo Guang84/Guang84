@@ -24,7 +24,7 @@ I’m always excited to connect on projects that bring positive impact! If you h
 
 ## 📫 How to Reach Me
 
-- **Email:** guanghope01@gmail.com
+- **Email:**
 - **Instagram:** [@im_imagi.nation](https://www.instagram.com/im_imagi.nation?igsh=MTR3OWFta243MDUwdw==)
 
 ## 📈 GitHub Stats
