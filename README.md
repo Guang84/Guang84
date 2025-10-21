@@ -47,7 +47,7 @@ future_goals = ["Java", "C++", "Advanced Security"]
 
 ### **Networking Projects** 🌐
 
-#### [**Network-Administration**](https://github.com/Guang84/Network-Administration)
+#### [**Network-Administration**](https://github.com/Guang84/Network-Analyzer)
 *Learning network administration basics*
 - Network configuration practice
 - Device monitoring scripts
@@ -67,21 +67,21 @@ future_goals = ["Java", "C++", "Advanced Security"]
 
 ### **Web Development Practice** 💻
 
-#### [**Network Mapping Tool**](https://github.com/Guang84/Network-Analyzer)
+#### [**Network Mapping Tool**](https://github.com/Guang84/MapWizard)
 *Interactive Network Visualization Web Application*
 - Real-time network device discovery
 - Interactive topology mapping with JavaScript
 - Device status monitoring dashboard
 - Network health visualization
 
-#### [**Full Stack Server Projects**](https://github.com/Guang84)
+#### [**Full Stack Server Projects**](https://guang84.github.io/Network-Analyzer/)
 *Various Backend and Full Stack Learning Projects*
 - Node.js and Express server development
 - Database integration (SQL/NoSQL)
 - User authentication systems
 - Server-client communication practice
 
-#### [**Broadband Service Enterprise Portal**](https://github.com/Guang84/OLT-Access-Portal) 🔒 **PRIVATE**
+#### [**Broadband Service Enterprise Portal**](https://github.com/Guang84/noneybsnl) 🔒 **PRIVATE**
 *Full Stack Private Enterprise Project - My Best Work So Far*
 - **Frontend**: Modern react.js dashboard with real-time monitoring
 - **Backend**: Python, Node.js/Express server with robust API architecture
