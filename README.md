@@ -164,8 +164,6 @@ I'm always looking to connect with other learners and mentors! Whether you're:
 
 <div align="center">
 
-### *"The expert in anything was once a beginner." - Helen Hayes*
-
 ⭐ **Follow and feel free to suggest improvements to my projects!**
 
 </div>
